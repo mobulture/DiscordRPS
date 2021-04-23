@@ -1,0 +1,1 @@
+worker: python3 D:\Documents\GitRepos\RPSDiscord\DiscordRPS\myBot.py
