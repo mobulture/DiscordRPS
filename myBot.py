@@ -1,13 +1,13 @@
 import discord
 from discord.ext import commands
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from datetime import datetime
 import os
 import asyncio
 import time 
 bot = discord.ext.commands.Bot(command_prefix ="$")
 
-load_dotenv()
+#load_dotenv()
 
 #client = discord.Client()
 Token = os.getenv("TOKEN")
